@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyzjack)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m Yizhou Wang, a Ph.D. student at Northeastern University
 - 👀 I’m interested in Machine Learning, especially Anomaly Detection problems.
 - 🌱 I’m currently learning body building.
